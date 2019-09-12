@@ -1,0 +1,23 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "Simple knowledge app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dragana93/nodeserver.git"
+  },
+  "author": "Dragana Savanovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dragana93/nodeserver/issues"
+  },
+  "homepage": "https://github.com/dragana93/nodeserver#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
